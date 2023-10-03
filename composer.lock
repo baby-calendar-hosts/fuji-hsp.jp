@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "417211f560e922b02ab1794e810fda9f",
+    "content-hash": "264b812d7c8c746303ba588102ae9b61",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -2197,24 +2197,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/adminimize/"
-        },
-        {
-            "name": "wpackagist-plugin/amazon-s3-and-cloudfront",
-            "version": "3.2.5",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/amazon-s3-and-cloudfront/",
-                "reference": "tags/3.2.5"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.3.2.5.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/amazon-s3-and-cloudfront/"
         },
         {
             "name": "wpackagist-plugin/breadcrumb-navxt",
