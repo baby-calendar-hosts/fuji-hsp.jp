@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bd7915c5b26006e056112d166f1224e5",
+    "content-hash": "d4485d58e3b8b768de6b2182c55acac7",
     "packages": [
         {
             "name": "advanced-custom-fields/advanced-custom-fields-pro",
@@ -943,7 +943,7 @@
         },
         {
             "name": "koodimonni-plugin-language/xml-sitemap-feed-ja",
-            "version": "5.3.6",
+            "version": "5.3.5",
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/translation/plugin/xml-sitemap-feed/{%version}/ja.zip"
