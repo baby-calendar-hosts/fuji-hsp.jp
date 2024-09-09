@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "983e71fb68b9480ddee669b885bb7edd",
+    "content-hash": "96d0f317349ab7df3fc860fa3e09e5e9",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -2390,6 +2390,24 @@
             "homepage": "https://wordpress.org/plugins/loginizer/"
         },
         {
+            "name": "wpackagist-plugin/mw-wp-form",
+            "version": "5.0.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/mw-wp-form/",
+                "reference": "tags/5.0.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/mw-wp-form.5.0.4.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/mw-wp-form/"
+        },
+        {
             "name": "wpackagist-plugin/my-calendar",
             "version": "3.5.13",
             "source": {
@@ -2424,6 +2442,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/post-types-order/"
+        },
+        {
+            "name": "wpackagist-plugin/recaptcha-for-mw-wp-form",
+            "version": "1.1.7",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/recaptcha-for-mw-wp-form/",
+                "reference": "tags/1.1.7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/recaptcha-for-mw-wp-form.1.1.7.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/recaptcha-for-mw-wp-form/"
         },
         {
             "name": "wpackagist-plugin/reusable-blocks-extended",
