@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e7887d68471af49d86c03b169031e84f",
+    "content-hash": "d3a109827e7d678c68f122ab3b9dfe15",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -2190,24 +2190,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/adminimize/"
-        },
-        {
-            "name": "wpackagist-plugin/amazon-s3-and-cloudfront",
-            "version": "3.2.8",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/amazon-s3-and-cloudfront/",
-                "reference": "tags/3.2.8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.3.2.8.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/amazon-s3-and-cloudfront/"
         },
         {
             "name": "wpackagist-plugin/breadcrumb-navxt",
